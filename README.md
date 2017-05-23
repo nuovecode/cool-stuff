@@ -1,8 +1,6 @@
 # COOL STUFF
 Documentation, commands and fun things
 
-## Frontend tooling ##
-
 * [Babel](doc/babel.md)
 
 * [Gulp](https://github.com/nuovecode/Sample-gulpfile-React-Browserify-less/blob/master/gulpfile.js)
