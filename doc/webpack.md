@@ -2,7 +2,7 @@
 
 **Install with Yarn**
  
- [See Yarn usage](doc/yarn.md)
+ [See Yarn usage](yarn.md)
 
 
      yarn add webpack webpack-dev-server --save
