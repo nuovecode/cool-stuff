@@ -2,7 +2,7 @@
 
 **Install with Yarn**
 
- [See Yarn usage](doc/yarn.md)
+ [See Yarn usage](yarn.md)
 
       yarn add babel-core babel-loader babel-plugin-transform-runtime babel-preset-es2015 --save
       
