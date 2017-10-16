@@ -15,3 +15,5 @@ Yarn init create _package.json_
 **Add a package**
 
         yarn add <package> --save
+
+…
